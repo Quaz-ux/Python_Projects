@@ -4,6 +4,6 @@ My small python games:
 - Hangman (done)
 - Madlibs (done)
 - Rock Paper Scissors (done)
-- Binary Search (In progress)
+- Binary Search (done)
 - Minesweeper
 - Sudoku Solver 
